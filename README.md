@@ -15,7 +15,7 @@ Using the stacked model we achieved close to state of the art performance (at th
 ## Demo
 There is a demo that will try to determine the person's emotion live from the webcam feed. For the purposes of the demo only one of the networks is used, otherwise the video gets choppy due to increased performance requirements.
 
-You can start it by running <code>demo.py</code>
+You can start it by running <code>demo.py</code>, but you have pre-train your model first.
 
 ## Training 
 We trained all our models on machines in the Google Cloud Platform that have 2 Nvidia K80 GPUs and 100GB ram.
