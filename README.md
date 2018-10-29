@@ -23,4 +23,4 @@ We trained all our models on machines in the Google Cloud Platform that have 2 N
 ## More info
 For graphs detailing the network architectures, examples from the dataset, confusion matrices of the models and other info see our [presentation](https://docs.google.com/presentation/d/1G0BBDb2nK32AsQM5ToPPO_Sx6rpth19IIWsvHD1vkBc/edit?usp=sharing) .
 
-Our work is based on the following papers: [here](https://project.dke.maastrichtuniversity.nl/RAI/wp-content/uploads/2017/05/SMAP_paper_final_version.pdf) , [here](http://cs231n.stanford.edu/reports/2017/pdfs/221.pdf), [here](http://cs231n.stanford.edu/reports/2017/pdfs/224.pdf), [here](https://arxiv.org/pdf/1710.07557.pdf)
+Our work is based on the following papers: [here](https://project.dke.maastrichtuniversity.nl/RAI/wp-content/uploads/2017/05/SMAP_paper_final_version.pdf), [here](http://cs231n.stanford.edu/reports/2017/pdfs/221.pdf), [here](http://cs231n.stanford.edu/reports/2017/pdfs/224.pdf), [here](https://arxiv.org/pdf/1710.07557.pdf).
